@@ -1,3 +1,36 @@
+grm040: grm040.cpp
+	g++ -o grm040 grm040.cpp
+
+grm039: grm039.cpp
+	g++ -o grm039 grm039.cpp
+
+grm038: grm038.cpp
+	g++ -o grm038 grm038.cpp
+
+grm037: grm037.cpp
+	g++ -o grm037 grm037.cpp
+
+grm036: grm036.cpp
+	g++ -o grm036 grm036.cpp
+
+grm035: grm035.cpp
+	g++ -o grm035 grm035.cpp
+
+grm034: grm034.cpp
+	g++ -o grm034 grm034.cpp
+
+grm033: grm033.cpp
+	g++ -o grm033 grm033.cpp
+
+grm032: grm032.cpp
+	g++ -o grm032 grm032.cpp
+
+grm031: grm031.cpp
+	g++ -o grm031 grm031.cpp
+
+grm030: grm030.cpp
+	g++ -o grm030 grm030.cpp
+
 grm029: grm029.cpp
 	g++ -o grm029 grm029.cpp
 
