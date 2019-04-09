@@ -1,3 +1,18 @@
+grm045: grm045.cpp
+	g++ -o grm045 grm045.cpp
+
+grm044: grm044.cpp
+	g++ -o grm044 grm044.cpp
+
+grm043: grm043.cpp
+	g++ -o grm043 grm043.cpp
+
+grm042: grm042.cpp
+	g++ -o grm042 grm042.cpp
+
+grm041: grm041.cpp
+	g++ -o grm041 grm041.cpp
+
 grm040: grm040.cpp
 	g++ -o grm040 grm040.cpp
 
